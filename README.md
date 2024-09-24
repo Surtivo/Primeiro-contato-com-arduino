@@ -1,5 +1,5 @@
-# Arduiono-para-medicao-de-temperatura-e-pressao
+# Arduíono para medição de temperatura e pressão
 Este conteúdo foi feito como parte do trabalho 1 da disciplina de termodinâmica. Este foi um trabalho conjunto com todos os integrantes da turma (um total de 6 pessoas).
-# O-que-e-o-trabalho?
+# O que foi o trabalho?
 Este traalho tinha como ojetivo utilizar um arduíno e sua programação para medir a elevação de temperatura e pressão de um recipiente. Era necessário demostrar como a temperatura e a pressão de um recipiente estão relacionadas.
 A execução foi bem da ruinzinha, pois tivemos diversos problemas e falhas ao decorrer dos experimentos. No fim, tudo foi resolvido praticamente de última hora, mas tudo ocorreu bem, eu acho...
